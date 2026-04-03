@@ -1,0 +1,8 @@
+# 个人写作数据（不提交到公开仓库）
+profiles/*.md
+!profiles/.gitkeep
+samples/*.md
+changelog.md
+
+# 系统文件
+.DS_Store
